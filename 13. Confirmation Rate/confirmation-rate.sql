@@ -1,0 +1,1 @@
+SELECT Signups.user_id, avg(if(Confirmations.action='confirmed',1,0)) AS confirmation_rate FROM Signups LEFT JOIN Confirmations ON Signups.user_id = Confirmations.user_id  GROUP BY user_id
