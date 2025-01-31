@@ -1,6 +1,3 @@
-Here is the question formatted in **Markdown**:
-
-```markdown
 # 1193. Monthly Transactions I
 
 **Solved**  
