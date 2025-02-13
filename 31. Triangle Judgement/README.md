@@ -1,4 +1,3 @@
-```markdown
 ## 610. Triangle Judgement
 
 **Easy**
