@@ -19,6 +19,7 @@
 - `product_id` is the primary key (column with unique values) for this table.
 - This table contains data about the company's products.
 
+
 ### Table: `Orders`
 | Column Name   | Type  |
 |--------------|-------|
